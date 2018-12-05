@@ -1,6 +1,6 @@
 # GNA-KUL-2017-2018
 These files contain all assignments during my time in the course GNA. These are 3 projects of which all code and reports are of my ownership, Liam Volckerick.
-I DO NOT ENDORSE ANY FOR OF PLAGIARISM. If you are using any of this code, I have nothing to do with this. Use at own risk. 
+I DO NOT ENDORSE ANY FORM OF PLAGIARISM. If you are using any of this code, I have nothing to do with this. Use at own risk. 
 
 Practicum1: SortingAlgorithms
 
